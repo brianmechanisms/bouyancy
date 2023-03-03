@@ -1,44 +1,100 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "index.html#about-us",
+    "href": "index.html#about-us",
     "title": "Brian Mechanisms",
-    "section": "",
-    "text": "We are a Kenyan software and robotics company"
+    "section": "0.1 About Us",
+    "text": "0.1 About Us\nWe are a Kenyan software and robotics company"
   },
   {
     "objectID": "index.html#robotics",
     "href": "index.html#robotics",
     "title": "Brian Mechanisms",
-    "section": "Robotics",
-    "text": "Robotics\n\nLong Range Linear Actuator\n\n\nCable Actuator\n\n\nCartesian Robots\n\nBM AgriBot\n\n\n\nWalking Robot\n\nBM AgriBot"
+    "section": "0.2 Robotics",
+    "text": "0.2 Robotics\n\n0.2.1 Long Range Linear Actuator\n\n\n0.2.2 Cable Actuator\n\n\n0.2.3 Cartesian Robots\n\n0.2.3.1 BM AgriBot\n\n\n\n0.2.4 Walking Robot\n\n0.2.4.1 BM AgriBot"
   },
   {
     "objectID": "index.html#software",
     "href": "index.html#software",
     "title": "Brian Mechanisms",
-    "section": "Software",
-    "text": "Software\n\nLibrary Management System\n\n\nFarmbot Simulator\n\n\nCsynage"
+    "section": "0.3 Software",
+    "text": "0.3 Software\n\n0.3.1 Library Management System\n\n\n0.3.2 Farmbot Simulator\n\n\n0.3.3 Csynage"
   },
   {
     "objectID": "index.html#external-projects",
     "href": "index.html#external-projects",
     "title": "Brian Mechanisms",
-    "section": "External Projects",
-    "text": "External Projects\n\nDawascope"
+    "section": "0.4 External Projects",
+    "text": "0.4 External Projects\n\n0.4.1 Dawascope"
   },
   {
     "objectID": "index.html#research-and-development",
     "href": "index.html#research-and-development",
     "title": "Brian Mechanisms",
-    "section": "Research and Development",
-    "text": "Research and Development\n\nWater Valve\n\n\nWater Level Sensor"
+    "section": "0.5 Research and Development",
+    "text": "0.5 Research and Development\n\n0.5.1 Water Valve\n\n\n0.5.2 Water Level Sensor"
   },
   {
     "objectID": "index.html#retired-software",
     "href": "index.html#retired-software",
     "title": "Brian Mechanisms",
-    "section": "Retired Software",
-    "text": "Retired Software\n\ncsycms"
+    "section": "0.6 Retired Software",
+    "text": "0.6 Retired Software\n\n0.6.1 csycms"
+  },
+  {
+    "objectID": "robotics.html#about-us",
+    "href": "robotics.html#about-us",
+    "title": "2  Robotics",
+    "section": "2.1 About Us",
+    "text": "2.1 About Us\nWe are a Kenyan software and robotics company"
+  },
+  {
+    "objectID": "software.html#about-us",
+    "href": "software.html#about-us",
+    "title": "3  Software",
+    "section": "3.1 About Us",
+    "text": "3.1 About Us\nWe are a Kenyan software and robotics company"
+  },
+  {
+    "objectID": "rnd.html#about-us",
+    "href": "rnd.html#about-us",
+    "title": "4  Research and Development",
+    "section": "4.1 About Us",
+    "text": "4.1 About Us\nWe are a Kenyan software and robotics company"
+  },
+  {
+    "objectID": "projects.html#about-us",
+    "href": "projects.html#about-us",
+    "title": "5  Projects",
+    "section": "5.1 About Us",
+    "text": "5.1 About Us\nWe are a Kenyan software and robotics company"
+  },
+  {
+    "objectID": "retired-software.html#about-us",
+    "href": "retired-software.html#about-us",
+    "title": "6  Retired Software",
+    "section": "6.1 About Us",
+    "text": "6.1 About Us\nWe are a Kenyan software and robotics company"
+  },
+  {
+    "objectID": "careers.html#about-us",
+    "href": "careers.html#about-us",
+    "title": "7  Careers",
+    "section": "7.1 About Us",
+    "text": "7.1 About Us\nWe are a Kenyan software and robotics company"
+  },
+  {
+    "objectID": "about-us.html#about-us",
+    "href": "about-us.html#about-us",
+    "title": "8  About Us",
+    "section": "8.1 About Us",
+    "text": "8.1 About Us\nWe are a Kenyan software and robotics company"
+  },
+  {
+    "objectID": "about-us.html#team",
+    "href": "about-us.html#team",
+    "title": "8  About Us",
+    "section": "8.2 Team",
+    "text": "8.2 Team"
   }
 ]
