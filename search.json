@@ -1,59 +1,73 @@
 [
   {
-    "objectID": "index.html#about-us",
-    "href": "index.html#about-us",
+    "objectID": "index.html#about",
+    "href": "index.html#about",
     "title": "Brian Mechanisms",
-    "section": "0.1 About Us",
-    "text": "0.1 About Us\nWe are a Kenyan software and robotics company"
+    "section": "0.1 About",
+    "text": "0.1 About\nWe’re a robotics and software company with a focus on building solutions that are accessible to everyone. At Brian Mechanisms, we’re committed to creating products that are easy to use, reliable, and affordable. We understand that not everyone has the same resources or technical expertise, which is why we work tirelessly to create technology that is accessible to everyone.\nWe specialize in developing solutions for a wide range of industries, from healthcare to manufacturing to education to agriculture. Our technology is designed to help businesses and individuals achieve their goals more efficiently and effectively, without breaking the bank.\nWhether you’re looking for a robotics solution for your manufacturing plant, a software solution for your healthcare practice, or an educational tool for your classroom, or a robot for your farm, we have the expertise and experience to create a custom solution that meets your needs."
   },
   {
-    "objectID": "index.html#robotics",
-    "href": "index.html#robotics",
+    "objectID": "index.html#team",
+    "href": "index.html#team",
     "title": "Brian Mechanisms",
-    "section": "0.2 Robotics",
-    "text": "0.2 Robotics\n\n0.2.1 Long Range Linear Actuator\n\n\n0.2.2 Cable Actuator\n\n\n0.2.3 Cartesian Robots\n\n0.2.3.1 BM AgriBot\n\n\n\n0.2.4 Walking Robot\n\n0.2.4.1 BM AgriBot"
+    "section": "0.2 Team",
+    "text": "0.2 Team\nOur team is made up of experts in robotics, software engineering, and design, who share a common goal of creating cutting-edge technology that solves real-world problems. We believe that technology should be affordable and accessible to everyone, regardless of their background or financial situation."
   },
   {
-    "objectID": "index.html#software",
-    "href": "index.html#software",
-    "title": "Brian Mechanisms",
-    "section": "0.3 Software",
-    "text": "0.3 Software\n\n0.3.1 Library Management System\n\n\n0.3.2 Farmbot Simulator\n\n\n0.3.3 Csynage"
-  },
-  {
-    "objectID": "index.html#external-projects",
-    "href": "index.html#external-projects",
-    "title": "Brian Mechanisms",
-    "section": "0.4 External Projects",
-    "text": "0.4 External Projects\n\n0.4.1 Dawascope"
-  },
-  {
-    "objectID": "index.html#research-and-development",
-    "href": "index.html#research-and-development",
-    "title": "Brian Mechanisms",
-    "section": "0.5 Research and Development",
-    "text": "0.5 Research and Development\n\n0.5.1 Water Valve\n\n\n0.5.2 Water Level Sensor"
-  },
-  {
-    "objectID": "index.html#retired-software",
-    "href": "index.html#retired-software",
-    "title": "Brian Mechanisms",
-    "section": "0.6 Retired Software",
-    "text": "0.6 Retired Software\n\n0.6.1 csycms"
-  },
-  {
-    "objectID": "robotics.html#about-us",
-    "href": "robotics.html#about-us",
+    "objectID": "robotics.html#long-range-linear-actuator",
+    "href": "robotics.html#long-range-linear-actuator",
     "title": "2  Robotics",
-    "section": "2.1 About Us",
-    "text": "2.1 About Us\nWe are a Kenyan software and robotics company"
+    "section": "2.1 Long Range Linear Actuator",
+    "text": "2.1 Long Range Linear Actuator"
   },
   {
-    "objectID": "software.html#about-us",
-    "href": "software.html#about-us",
+    "objectID": "robotics.html#linear-cable-actuator",
+    "href": "robotics.html#linear-cable-actuator",
+    "title": "2  Robotics",
+    "section": "2.2 Linear Cable Actuator",
+    "text": "2.2 Linear Cable Actuator"
+  },
+  {
+    "objectID": "robotics.html#cartesian-robots",
+    "href": "robotics.html#cartesian-robots",
+    "title": "2  Robotics",
+    "section": "2.3 Cartesian Robots",
+    "text": "2.3 Cartesian Robots\n\n2.3.1 Cartesian BM AgriBot"
+  },
+  {
+    "objectID": "robotics.html#walking-robots",
+    "href": "robotics.html#walking-robots",
+    "title": "2  Robotics",
+    "section": "2.4 Walking Robots",
+    "text": "2.4 Walking Robots\n\n2.4.1 Walking BM AgriBot"
+  },
+  {
+    "objectID": "robotics.html#cable-robots",
+    "href": "robotics.html#cable-robots",
+    "title": "2  Robotics",
+    "section": "2.5 Cable Robots",
+    "text": "2.5 Cable Robots\n\n2.5.1 Cable BM AgriBot"
+  },
+  {
+    "objectID": "software.html#simulators",
+    "href": "software.html#simulators",
     "title": "3  Software",
-    "section": "3.1 About Us",
-    "text": "3.1 About Us\nWe are a Kenyan software and robotics company"
+    "section": "3.1 Simulators",
+    "text": "3.1 Simulators\n\n3.1.1 Agribot Simulator\n\n\n\nFigure 3.1: Cone Garden\n\n\n\n\n3.1.2 Cone Garden Simulator\n\n\n\nFigure 3.2: Cone Garden"
+  },
+  {
+    "objectID": "software.html#advent-hymnals",
+    "href": "software.html#advent-hymnals",
+    "title": "3  Software",
+    "section": "3.2 Advent Hymnals",
+    "text": "3.2 Advent Hymnals\n\n3.2.1 openUtau for Ubuntu\n\n\n3.2.2 Static Site\n\n\n3.2.3 Web App"
+  },
+  {
+    "objectID": "software.html#library-management-application",
+    "href": "software.html#library-management-application",
+    "title": "3  Software",
+    "section": "3.3 Library Management Application",
+    "text": "3.3 Library Management Application"
   },
   {
     "objectID": "rnd.html#about-us",
@@ -96,5 +110,19 @@
     "title": "8  About Us",
     "section": "8.2 Team",
     "text": "8.2 Team"
+  },
+  {
+    "objectID": "contacts.html",
+    "href": "contacts.html",
+    "title": "9  Contact-Us",
+    "section": "",
+    "text": "Email: brian@cseco.co.ke, surgbc@gmail.com\nTel: +254706662011"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "10  Blog",
+    "section": "",
+    "text": "Pull and list all blogs here… Create a script for pulling the blogs and creating the list…\nCreate means of pulling cv from other repo for team members\nDo the same for careers"
   }
 ]
