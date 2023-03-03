@@ -2,15 +2,43 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Novel Long Range Compound Linear Motion Mechanisms For use in the Design of Affordable Agricultural Robots",
+    "title": "Brian Mechanisms",
     "section": "",
-    "text": "Idea\nBusiness plan\nProject plan\nProject tracking"
+    "text": "We are a Kenyan software and robotics company"
   },
   {
-    "objectID": "index.html#sec-book-system",
-    "href": "index.html#sec-book-system",
-    "title": "Novel Long Range Compound Linear Motion Mechanisms For use in the Design of Affordable Agricultural Robots",
-    "section": "Book System",
-    "text": "Book System\nDESCRIPTION REDACTED. Contact author for full access."
+    "objectID": "index.html#robotics",
+    "href": "index.html#robotics",
+    "title": "Brian Mechanisms",
+    "section": "Robotics",
+    "text": "Robotics\n\nLong Range Linear Actuator\n\n\nCable Actuator\n\n\nCartesian Robots\n\nBM AgriBot\n\n\n\nWalking Robot\n\nBM AgriBot"
+  },
+  {
+    "objectID": "index.html#software",
+    "href": "index.html#software",
+    "title": "Brian Mechanisms",
+    "section": "Software",
+    "text": "Software\n\nLibrary Management System\n\n\nFarmbot Simulator\n\n\nCsynage"
+  },
+  {
+    "objectID": "index.html#external-projects",
+    "href": "index.html#external-projects",
+    "title": "Brian Mechanisms",
+    "section": "External Projects",
+    "text": "External Projects\n\nDawascope"
+  },
+  {
+    "objectID": "index.html#research-and-development",
+    "href": "index.html#research-and-development",
+    "title": "Brian Mechanisms",
+    "section": "Research and Development",
+    "text": "Research and Development\n\nWater Valve\n\n\nWater Level Sensor"
+  },
+  {
+    "objectID": "index.html#retired-software",
+    "href": "index.html#retired-software",
+    "title": "Brian Mechanisms",
+    "section": "Retired Software",
+    "text": "Retired Software\n\ncsycms"
   }
 ]
