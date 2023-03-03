@@ -70,58 +70,86 @@
     "text": "3.3 Library Management Application"
   },
   {
-    "objectID": "rnd.html#about-us",
-    "href": "rnd.html#about-us",
-    "title": "4  Research and Development",
-    "section": "4.1 About Us",
-    "text": "4.1 About Us\nWe are a Kenyan software and robotics company"
+    "objectID": "software.html#csynage",
+    "href": "software.html#csynage",
+    "title": "3  Software",
+    "section": "3.4 Csynage",
+    "text": "3.4 Csynage"
   },
   {
-    "objectID": "projects.html#about-us",
-    "href": "projects.html#about-us",
-    "title": "5  Projects",
+    "objectID": "software.html#c4-using-mermaid",
+    "href": "software.html#c4-using-mermaid",
+    "title": "3  Software",
+    "section": "3.5 C4 using mermaid",
+    "text": "3.5 C4 using mermaid"
+  },
+  {
+    "objectID": "softwareTools.html#c4-visualiztion-using-mermaid",
+    "href": "softwareTools.html#c4-visualiztion-using-mermaid",
+    "title": "4  Software Tools",
+    "section": "4.1 C4 visualiztion using mermaid",
+    "text": "4.1 C4 visualiztion using mermaid"
+  },
+  {
+    "objectID": "softwareTools.html#backend-starter",
+    "href": "softwareTools.html#backend-starter",
+    "title": "4  Software Tools",
+    "section": "4.2 Backend Starter",
+    "text": "4.2 Backend Starter"
+  },
+  {
+    "objectID": "rnd.html#about-us",
+    "href": "rnd.html#about-us",
+    "title": "5  Research and Development",
     "section": "5.1 About Us",
     "text": "5.1 About Us\nWe are a Kenyan software and robotics company"
   },
   {
-    "objectID": "retired-software.html#about-us",
-    "href": "retired-software.html#about-us",
-    "title": "6  Retired Software",
+    "objectID": "projects.html#about-us",
+    "href": "projects.html#about-us",
+    "title": "6  Projects",
     "section": "6.1 About Us",
     "text": "6.1 About Us\nWe are a Kenyan software and robotics company"
   },
   {
-    "objectID": "careers.html#about-us",
-    "href": "careers.html#about-us",
-    "title": "7  Careers",
-    "section": "7.1 About Us",
-    "text": "7.1 About Us\nWe are a Kenyan software and robotics company"
+    "objectID": "retired-software.html#csycms",
+    "href": "retired-software.html#csycms",
+    "title": "7  Retired Software",
+    "section": "7.1 csycms",
+    "text": "7.1 csycms"
   },
   {
-    "objectID": "about-us.html#about-us",
-    "href": "about-us.html#about-us",
-    "title": "8  About Us",
+    "objectID": "careers.html#about-us",
+    "href": "careers.html#about-us",
+    "title": "8  Careers",
     "section": "8.1 About Us",
     "text": "8.1 About Us\nWe are a Kenyan software and robotics company"
   },
   {
+    "objectID": "about-us.html#about-us",
+    "href": "about-us.html#about-us",
+    "title": "9  About Us",
+    "section": "9.1 About Us",
+    "text": "9.1 About Us\nWe are a Kenyan software and robotics company"
+  },
+  {
     "objectID": "about-us.html#team",
     "href": "about-us.html#team",
-    "title": "8  About Us",
-    "section": "8.2 Team",
-    "text": "8.2 Team"
+    "title": "9  About Us",
+    "section": "9.2 Team",
+    "text": "9.2 Team"
   },
   {
     "objectID": "contacts.html",
     "href": "contacts.html",
-    "title": "9  Contact-Us",
+    "title": "10  Contact-Us",
     "section": "",
     "text": "Email: brian@cseco.co.ke, surgbc@gmail.com\nTel: +254706662011"
   },
   {
     "objectID": "blog.html",
     "href": "blog.html",
-    "title": "10  Blog",
+    "title": "11  Blog",
     "section": "",
     "text": "Pull and list all blogs here… Create a script for pulling the blogs and creating the list…\nCreate means of pulling cv from other repo for team members\nDo the same for careers"
   }
